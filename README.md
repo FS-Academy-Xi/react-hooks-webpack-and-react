@@ -131,7 +131,7 @@ import reveal from "./reveal.js";
 
 const gutMensch = {
   name: "Andrew Cohn",
-  identity: "Friendly Neighborhood Flatiron Teacher",
+  identity: "Friendly Neighborhood Academy Xi Instructor",
 };
 
 reveal(gutMensch, "Chrome Boi");
@@ -158,7 +158,7 @@ function reveal(person, realIdentity) {
 
 const gutMensch = {
   name: "Andrew Cohn",
-  identity: "Friendly Neighborhood Flatiron Teacher",
+  identity: "Friendly Neighborhood Academy Xi Instructor",
 };
 
 reveal(gutMensch, "Chrome Boi");
@@ -198,7 +198,7 @@ After reading the previous lesson on Babel and now this one on Webpack, you may,
 Because `create-react-app` is so opaque with configuration files, allow us to be
 transparent with you:
 
-At Flatiron, we are constantly balancing an explanation of the fundamentals
+At Academy Xi, we are constantly balancing an explanation of the fundamentals
 against practice on the real skills that will get you producing valuable
 applications the quickest. We believe that, while learning React basics, it's
 important to know how these tools (Webpack + Babel) work on a _high level_.
